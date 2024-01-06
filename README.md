@@ -1,3 +1,5 @@
+![logo](https://github.com/meetrajani/meetrajani/blob/main/BANNR.png)
+
 <h1 align="center">Hi 👋, I'm Meet rajani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
