@@ -1,29 +1,30 @@
 ![logo](https://github.com/meetrajani/meetrajani/blob/main/BANNR.png)
 
-<h1 align="center">Hi 👋, I'm Meet rajani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+🔭 I’m currently working on BCA (Bachelor of Computer Applications)<br>🌱 I’m currently learning Web front and development<br>👯 I’m looking to collaborate on for new project in front and development<br>🤝 I’m looking for help with I’m looking for help with for front and development in finder a job<br>👨‍💻 All of my projects are available at "https://github.com/meetrajani?tab=repositories"<br>📫 How to reach me "rmit9542@gmail.com"<br>⚡ Fun fact - I am funny 😅
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetrajani&label=Profile%20views&color=0e75b6&style=flat" alt="meetrajani" /> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Meet_rajani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meetrajani506) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meet_rajani) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/meetrajani?tab=repositories](https://github.com/meetrajani?tab=repositories)
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meetrajani&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meetrajani&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meetrajani&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **rmit9542@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **I am funny😅**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=meetrajani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meet_rajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet_rajani" height="30" width="40" /></a>
-<a href="https://instagram.com/meetrajani506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meetrajani506" height="30" width="40" /></a>
-</p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=meetrajani&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetrajani&show_icons=true&locale=en&layout=compact" alt="meetrajani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetrajani&show_icons=true&locale=en" alt="meetrajani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetrajani&" alt="meetrajani" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
