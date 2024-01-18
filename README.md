@@ -1,7 +1,7 @@
 ![logo](https://github.com/meetrajani/meetrajani/blob/main/BANNR.png)
 
 # 💫 About Me:
-🔭 I’m currently working on BCA (Bachelor of Computer Applications)<br>🌱 I’m currently learning Web front and development<br>👯 I’m looking to collaborate on for new project in front and development<br>🤝 I’m looking for help with I’m looking for help with for front and development in finder a job<br>👨‍💻 All of my projects are available at "https://github.com/meetrajani?tab=repositories"<br>📫 How to reach me "rmit9542@gmail.com"<br>⚡ Fun fact - I am funny 😅
+🔭  I’m currently Studing BCA (Bachelor of Computer Applications)<br>🌱 I’m currently learning Web front-end development<br>👯 I’m looking to collaborate on for new project in front and development<br>🤝 I’m looking for help with I’m looking for help with for front and development in finder a job<br>👨‍💻 All of my projects are available at "https://github.com/meetrajani?tab=repositories"<br>📫 How to reach me "rmit9542@gmail.com"<br>⚡ Fun fact - I am funny 😅
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
